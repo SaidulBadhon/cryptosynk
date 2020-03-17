@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+
+.Technologies {
+    align-content: center;
+    font-family: Roboto;
+    text-align: center;
+    margin-top: -550px;
+}
+
+.Technologies h5 {
+    color: rgba(0, 0, 0, .90);
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 2rem;
+    
+}
+.Section2 {
+    position: relative;
+    top: 160px;
+}
+
+.Section2 h2 {
+    font-family: Roboto;
+    text-align: left;
+    color: rgba(0, 0, 0, .90);
+    font-size: 50px;
+
+
+}
+
+.Section2 p {
+    text-align: left;
+    font-size: 25px;
+    color: rgba(0, 0, 0, .75);
+    position: relative;
+    top: 20px;
+
+}
+
+
+
+.TechnologiesMain{
+    margin-top: 30px;
+
+    display: grid;
+    grid-template-columns: 55% 45%;
+    padding-left: 10%;
+    padding-right: 10%;
+    justify-content: center;
+
+}
+
+.TechnologiesMain .Section1 {
+    width: 400px;
+    left: 50px;
+    top: 20px;
+    position: relative;
+
+}
+
+/*
+
+.TechnologiesMain .Section1 *{
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    position: relative;
+}
+
+
+.TechnologiesMain .Section1 .Image1{
+
+}
+
+
+.TechnologiesMain .Section1 .Image2{
+    right: 50px;
+    top: 25px;
+}
+
+
+.TechnologiesMain .Section1 .Image3{
+    top: 50px;
+    width: 100px;
+    height: 90px;
+}
+
+
+.TechnologiesMain .Section1 .Image4{
+    bottom: 40px;
+    left: 50px;
+}
+
+
+.TechnologiesMain .Section1 .Image5{
+    bottom: 40px;
+    height: 125px;
+    right: 10px;
+
+}
+
+
+.TechnologiesMain .Section1 .Image6{
+    height: 125px;
+    right: 85px;
+
+}
+
+*/

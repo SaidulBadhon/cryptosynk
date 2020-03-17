@@ -1,0 +1,51 @@
+<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="635.3" height="635.3" viewBox="0 0 635.3 635.3">
+  <defs>
+    <filter id="XMLID_207_" x="119" y="128" width="340.28" height="410.76" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="XMLID_206_" x="357.17" y="444.5" width="92.28" height="88.72" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11" x="232.83" y="201.42" width="303.157" height="304.682" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_4_1" data-name="Component 4 – 1">
+    <g id="XMLID_161_" transform="translate(-243.35 -243.35)">
+      <circle id="XMLID_4404_" cx="317.65" cy="317.65" r="317.65" transform="translate(243.35 243.35)" fill="#cbe9ff"/>
+    </g>
+  </g>
+  <g id="sdsdadsadsasdasaddasdsasda" transform="translate(-626.95 -71.03)">
+    <g id="XMLID_205_" opacity="0.59">
+      <g transform="matrix(1, 0, 0, 1, 626.95, 71.03)" filter="url(#XMLID_207_)">
+        <path id="XMLID_207_2" data-name="XMLID_207_" d="M783.64,214.03a22.724,22.724,0,0,0-22.69,22.69V572.09a22.726,22.726,0,0,0,22.69,22.7H986.17V550.22a35.676,35.676,0,0,1,35.64-35.64h49.42V236.72a22.711,22.711,0,0,0-22.69-22.69Zm228.45,207.75h-192V406.16h192Zm0-54.65h-192V351.51h192Zm0-54.65h-192V296.86h192Z" transform="translate(-626.95 -71.03)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 626.95, 71.03)" filter="url(#XMLID_206_)">
+        <path id="XMLID_206_2" data-name="XMLID_206_" d="M999.12,550.22v36.03l62.28-58.72h-39.59A22.717,22.717,0,0,0,999.12,550.22Z" transform="translate(-626.95 -71.03)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="XMLID_182_">
+      <g id="XMLID_32_">
+        <g id="Group_2" data-name="Group 2">
+          <g id="Group_1" data-name="Group 1">
+            <g transform="matrix(1, 0, 0, 1, 626.95, 71.03)" filter="url(#Path_11)">
+              <path id="Path_11-2" data-name="Path 11" d="M1151.41,533.61l-7.19-7.18h0l-2.03-2.03-.02.01-68.52-67.49a112.6,112.6,0,1,0-29.41,28.56l70.49,69.43,7.69,7.69c4.92,4.93,15.41,2.44,23.42-5.56C1153.85,549.02,1156.33,538.53,1151.41,533.61ZM983.29,470.83a79.42,79.42,0,1,1,79.43-79.42A79.417,79.417,0,0,1,983.29,470.83Z" transform="translate(-626.95 -71.03)" fill="#dc143c"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

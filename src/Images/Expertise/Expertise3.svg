@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="635.3" height="635.3" viewBox="0 0 635.3 635.3">
+  <g id="XMLID_161_" transform="translate(-243.35 -243.35)">
+    <circle id="XMLID_4404_" cx="317.65" cy="317.65" r="317.65" transform="translate(243.35 243.35)" fill="#cbe9ff"/>
+    <g id="XMLID_4272_">
+      <path id="XMLID_4276_" d="M286.7,604.63a34.786,34.786,0,0,1-2.57-48.31C326,508.07,428.08,408.25,559.39,403.55c132.74-4.75,246.27,102.24,292.27,152.76a34.809,34.809,0,0,1-2.1,49C799.73,651.4,680.3,749.74,568.5,749.74,456.14,749.73,336.09,650.42,286.7,604.63Z" fill="#fff"/>
+      <circle id="XMLID_4275_" cx="144.2" cy="144.2" r="144.2" transform="translate(358.273 576.561) rotate(-45)" fill="#433930"/>
+      <circle id="XMLID_4274_" cx="74.03" cy="74.03" r="74.03" transform="translate(443.355 502.523) rotate(-6.891)" fill="#abd5cb"/>
+      <circle id="XMLID_4273_" cx="22.57" cy="22.57" r="22.57" transform="translate(572.665 519.977) rotate(-4.715)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

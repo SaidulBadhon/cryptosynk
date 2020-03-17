@@ -1,0 +1,12 @@
+<svg id="Component_4_1" data-name="Component 4 – 1" xmlns="http://www.w3.org/2000/svg" width="635.3" height="635.3" viewBox="0 0 635.3 635.3">
+  <g id="XMLID_161_" transform="translate(-243.35 -243.35)">
+    <circle id="XMLID_4404_" cx="317.65" cy="317.65" r="317.65" transform="translate(243.35 243.35)" fill="#cbe9ff"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="279.949" height="141.303" rx="1" transform="translate(421.033 690.021)" fill="#fff" stroke="#92c9ec" stroke-width="2"/>
+    <text id="JSON" transform="translate(439.35 800.35)" fill="#92c9ec" font-size="95" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">JSON</tspan></text>
+  </g>
+  <g id="icon-jpg-1" transform="translate(69.072 63.775)">
+    <path id="Path_7" data-name="Path 7" d="M99.449,7.579H16.19V83.186" transform="translate(24.611 36.688)" fill="none" stroke="#103654" stroke-width="2"/>
+    <path id="Path_8" data-name="Path 8" d="M98.24,7.579H16.2V79.556M16.189,213.62v71.986H98.24M338.105,7.579h82.06V79.556m0,134.063v71.986H338.1" transform="translate(30.734 46.907)" fill="none" stroke="#103654" stroke-width="20"/>
+    <path id="Path_10" data-name="Path 10" d="M21.37,14.158H151.643M21.37,74.76H339.391M21.37,126.295H339.391M21.37,177.829H339.391" transform="translate(66.396 92.741)" fill="none" stroke="#fff" stroke-width="20"/>
+  </g>
+</svg>
